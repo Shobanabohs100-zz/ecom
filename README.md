@@ -1,2 +1,2 @@
 # ecom
-sample react ecommerce site
+sample React/NodeJS ecommerce site
