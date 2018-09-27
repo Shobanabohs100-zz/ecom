@@ -1,0 +1,33 @@
+# Try to write your query here
+query{
+  feeds{
+    id,
+    url,
+    description
+  }
+}
+# mutation{
+#   deleteLink(id: "link-0"){
+#     url,
+#     id,
+#     description
+#   }
+# }
+# mutation{
+#   postFeed(description: "woocommerce engine", url: "www.shopify.com",){
+#     id
+#   }
+# }
+# mutation{
+#   updateLink(id: "links-2", description:"woocommerce"){
+#     description,
+#     id,
+#     url
+#   }
+# }
+# query{
+#   link(id: "link-0"){
+#     url,
+#     id
+#   }
+# }
